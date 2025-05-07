@@ -1,4 +1,4 @@
-[如何使用redis构建异步任务处理程序](https://www.letianbiji.com/ds/2015-11-03-redis-async-task.html)  
+[如何使用redis构建异步任务处理程序](https://www.letiantian.xyz/p/101313.html)  
 
 ---
 
